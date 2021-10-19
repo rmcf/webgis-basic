@@ -1,8 +1,8 @@
 {
-  "name": "dggs-webgis",
+  "name": "webgis-spa",
   "version": "0.0.1",
-  "description": "DGGS web-GIS single page application",
-  "productName": "DGGS webgis",
+  "description": "Web-GIS single page application",
+  "productName": "Web GIS SPA",
   "author": "alex <rmcf@ukr.net>",
   "private": true,
   "scripts": {
