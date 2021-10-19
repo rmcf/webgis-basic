@@ -138,9 +138,9 @@ module.exports = configure(function (ctx) {
       },
 
       manifest: {
-        name: `DGGS webgis`,
-        short_name: `DGGS webgis`,
-        description: `DGGS web-GIS single page application`,
+        name: `Web-GIS SPA`,
+        short_name: `Web-GIS SPA`,
+        description: `Web-GIS single file application`,
         display: "standalone",
         orientation: "portrait",
         background_color: "#ffffff",
@@ -202,8 +202,7 @@ module.exports = configure(function (ctx) {
 
       builder: {
         // https://www.electron.build/configuration/configuration
-
-        appId: "dggs-webgis",
+        appId: "webgis-basic",
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain
